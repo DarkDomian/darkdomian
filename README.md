@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**DarkDomian/darkdomian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Hello there 👋
+<!-- 
+[![Buy me a coffee]()]() 
 -->
+I dream of combining my passion for programming and music in my career. Currently, I'm a junior developer learning to merge these interests. 🌱
+
+## ⚡ Skills:
+
+- Programming Languages: Python, JavaScript
+- Frameworks: will be soon
+
+## 📫 How to reach me:
+
+- [Telegram](https://tm.me/darkvib)
+- [LinkedIn](https://www.linkedin.com/in/darkdomian/)
+- [Email](mailto:darkdomian@gmail.com)
