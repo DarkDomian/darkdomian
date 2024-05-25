@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <a href="https://github.com/DarkDomian"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGx5d3VhcnVocWRxM2YzN285dHo3c3RqbmJmeGZwcW9pZG5ieXhneiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="150"/></a>
-  <!-- <div id="badges">
+  <div id="badges">
     <a href="https://t.me/DarkVib">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
@@ -13,8 +13,7 @@
     <a href="https://x.com/DarkDomian" id="x_badges">
       <img src="https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
     </a>
-  </div> -->
-  <img src="images/code.svg">
+  </div>
   <img src="https://komarev.com/ghpvc/?username=darkdomian&style=flat-square&color=blueviolet" alt=""/>
   <h1>
     hello there
