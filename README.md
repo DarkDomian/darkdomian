@@ -23,22 +23,18 @@
     hello there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+👨‍💻 I am a <b>junior developer</b> passionate about <b>programming</b> and <b>music</b>. My goal is to merge these interests in my career.
 </div>
 
-#### :man_technologist: I am a **junior developer** passionate about **programming** and **music**. My goal is to merge these interests in my career.
 
+<!--
 <details>
-  <summary>Learn more about me</summary>
-  
-  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-    
-  - :seedling: Exploring Technical Content Writing.
-    
-  - :zap: In my free time, I solve problems on [![LeetCode Badge](https://img.shields.io/badge/LeetCode-161b22?style=flat&logo=LeetCode&logoColor=orange)](https://leetcode.com/u/DarkDomian/) and read tech articles.
-  
-  - :mailbox: An easy way to reach me: [![Telegram](https://img.shields.io/badge/@DarkVib-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/DarkVib)
-    
-</details>
+  <summary>Learn more about me</summary>  
+  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.    
+  - :seedling: Exploring Technical Content Writing.    
+  - :zap: In my free time, I solve problems on [![LeetCode Badge](https://img.shields.io/badge/LeetCode-161b22?style=flat&logo=LeetCode&logoColor=orange)](https://leetcode.com/u/DarkDomian/) and read tech articles.  
+  - :mailbox: An easy way to reach me: [![Telegram](https://img.shields.io/badge/@DarkVib-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/DarkVib)    
+</details> -->
 
 
 #### :hammer_and_wrench: Languages and Tools :
@@ -60,7 +56,28 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div> -->
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,html,vscode,js,css,git,linux" alt="My Skills">
+  </a>
+</div>
+
 <!-- Finde a icons on https://skillicons.dev/ -->
-[![My Skills](https://skillicons.dev/icons?i=python,html,vscode,js,css,git,linux)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=python,html,vscode,js,css,git,linux)](https://skillicons.dev) -->
 
 #### :fire: My Stats :
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=darkdomian&theme=transparent&hide_border=true&card_width=500&card_height=200" alt="GitHub Streak statistic">
+  </a>
+</div>
+<!-- 
+commits streaks:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=darkdomian&theme=transparent&hide_border=true&card_width=500&card_height=200)](https://git.io/streak-stats)
+top usege lenguages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkdomian&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  -->
+
+
+
