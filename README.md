@@ -42,12 +42,12 @@ https://skillicons.dev/ - with mackground -->
   </a>
 </div>
 
-#### :fire: My Stats :
+<!--- #### :fire: My Stats :
 
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=darkdomian&theme=transparent&hide_border=true&card_width=500&card_height=200" alt="GitHub Streak statistic">
   </a>
-</div>
+</div> -->
 <!-- commits streaks: https://git.io/streak-stats 
 top usege lenguages: https://github.com/anuraghazra/github-readme-stats -->
