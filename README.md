@@ -43,7 +43,7 @@
 ### 📊 Dynamic Stats
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=darkdomian&show_icons=true&theme=transparent&hide_border=true" alt="Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?zusername=darkdomian&show_icons=true&theme=transparent&hide_border=true" alt="Stats"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkdomian&layout=compact&theme=transparent&hide_border=true" alt="Langs"/>
   </a>
 </div>
@@ -51,16 +51,17 @@
 ### 💻 LeetCode Progress
 <div align="center">
   <a href="https://leetcode.com/u/DarkDomian/">
-    <img src="https://leetcode.card.workers.dev/?username=DarkDomian&theme=dark&font=source_code_pro&extension=null&border_radius=8&hide_border=false" alt="LeetCode Stats"/>
+    <img src="https://leetcard.jacoblin.cool/DarkDomian?theme-transperent,ext=activity" alt="LeetCode Stats"/>
+    <!-- <img src="https://leetcode.card.workers.dev/?username=DarkDomian&theme=dark&font=source_code_pro&extension=null&border_radius=8&hide_border=false" alt="LeetCode Stats"/> -->
   </a>
 </div>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/DarkDomian?theme-transperent,ext=activity)
 
 ### 📝 Latest Blog Notes
 <!-- BLOG-POST-LIST:START -->
 🚧 *Automated updates cooking...*
 <!-- BLOG-POST-LIST:END -->
-
-✨ *Crafting efficient solutions with musical cadence* → [Let's collab!](mailto:darkdomian@gmail.com)
 
 <!-- Dynamic Elements to Consider:
 1. GitHub Actions workflow for auto-updating README with latest blog posts
