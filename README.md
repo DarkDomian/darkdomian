@@ -20,16 +20,14 @@
   
   <img src="https://komarev.com/ghpvc/?username=darkdomian&style=flat-square&color=blueviolet" alt="Views"/>
   
-  <h1>🎹 Code in Rhythm 
-    <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="40"/>
-  </h1>
-  <h3>👨‍💻 21 School Dev | 🎵 Sonic Architect | 🌱 Eternal Learner</h3>
+  <h1>💻 Code Alchemist</h1>
+  <h3>👨‍💻 21 School Developer | 🔧 Full-Stack Learner | 🌱 Systems Explorer</h3>
 </div>
 
 ### 🛠️ Tech Toolkit
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,vscode,js,css,git,linux,react,nextjs,astro,netlify,cloudflare,vim" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=python,html,js,css,bash,react,nextjs,astro,tailwind,materialui,threejs,linux,docker,vscode,vim,nvim,netlify,cloudflare,git,npm" alt="Tech Stack"/>
   </a>
 </div>
 
@@ -51,7 +49,7 @@
 ### 💻 LeetCode Progress
 <div align="center">
   <a href="https://leetcode.com/u/DarkDomian/">
-    <img src="https://leetcard.jacoblin.cool/DarkDomian?theme-transperent&ext=activity" alt="LeetCode Stats"/>
+    <img src="https://leetcard.jacoblin.cool/DarkDomian?theme-transperent&ext=activity&border=0&radius=20)" alt="LeetCode Stats"/>
   </a>
 </div>
 
