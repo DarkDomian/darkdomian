@@ -27,7 +27,7 @@
 ### 🛠️ Tech Toolkit
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,js,css,bash,react,nextjs,astro,tailwind,materialui,threejs,linux,docker,vscode,vim,nvim,netlify,cloudflare,git,npm" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=c,python,html,js,css,bash,react,nextjs,astro,tailwind,materialui,threejs,linux,docker,vscode,vim,neovim,netlify,vercel,cloudflare,git,npm" alt="Tech Stack"/>
   </a>
 </div>
 
